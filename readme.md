@@ -17,8 +17,6 @@ This project solves that gap through structured analysis, modeling, and dashboar
 
 # 📊 **Swiggy Analytics Dashboard**
 
-> Add your actual Power BI screenshots in the `images/` folder.
-
 ### **Executive Overview**
 
 <img width="1301" height="728" alt="Executive Overview" src="https://github.com/user-attachments/assets/7726f02a-fbb9-4be2-916e-cb0f29e9b452" />
@@ -60,7 +58,7 @@ This project solves that gap through structured analysis, modeling, and dashboar
 
 ---
 
-## 📈 **Key Insights (Explained in a Clear Table)**
+## 📈 **Key Insights**
 
 | Insight                                                     | Explanation                                                                                                                                                         |
 | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
